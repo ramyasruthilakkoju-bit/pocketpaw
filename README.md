@@ -43,7 +43,22 @@ Sets up Python and PocketPaw in one click, then opens the dashboard.
 | --- | --- |
 | **Windows** | [PocketPaw-Setup.exe](https://github.com/pocketpaw/pocketpaw/releases/latest/download/PocketPaw-Setup.exe) |
 
-### Install via Terminal
+
+### Windows Installation (Beginner Guide)
+
+
+Follow these steps if you are installing PocketPaw on Windows for the first time:
+
+1. Download **PocketPaw-Setup.exe** from the Windows installer above.
+2. Double-click the downloaded file.
+3. Follow the installer instructions.
+4. After installation, open **Command Prompt** or **PowerShell**.
+5. Run:
+
+
+```
+pocketpaw
+```
 
 <details open>
 <summary>macOS / Linux</summary>
